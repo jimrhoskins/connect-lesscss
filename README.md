@@ -30,3 +30,18 @@ The middleware builder takes two arguments `source` and `options`
 
 If `options.paths` is not defined, it will default to the directory
 containing the source file (`path.dirname(source)`).
+
+# Running Tests
+
+Install development dependencies
+    npm --dev install
+
+Run Tests
+    cake test
+
+To build js from coffee
+    cake build
+
+To build and run tests
+    cake build test
+
