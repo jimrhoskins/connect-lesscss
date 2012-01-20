@@ -1,19 +1,19 @@
 # Introduction
 
-`connect-less` is [Connect](http://www.senchalabs.org/connect/)
+`connect-lesscss` is [Connect](http://www.senchalabs.org/connect/)
 middleware that compiles [LESS](http://lesscss.org/) to CSS. Since
 [express](http://expressjs.com) is built on top of Connect,
-`connect-less` will allow you to compile LESS with expressjs.
+`connect-lesscss` will allow you to compile LESS with expressjs.
 
 # Installation
 
-    npm install connect-less
+    npm install connect-lesscss
 
 # Usage
 
 Example using express:
 
-    less = require('connect-less')
+    less = require('connect-lesscss')
     app = require('express').createServer()
 
     app.use("/main.css", less("path/to/main.less", {

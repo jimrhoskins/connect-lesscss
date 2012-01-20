@@ -1,6 +1,6 @@
 {
   "author": "Jim Hoskins <jim@jimhoskins.com> (http://jimhoskins.com)",
-  "name": "connect-less",
+  "name": "connect-lesscss",
   "description": "Connect middleware for LESS CSS",
   "version": "0.1.0",
   "repository": {
@@ -8,15 +8,15 @@
     "url": "http://github.com/jimrhoskins/connect-less.git"
   },
   "keywords": ["LESS", "Connect", "Express", "middleware"],
-  "homepage": "http://github.com/jimrhoskins/connect-less",
-  "bugs": "https://github.com/jimrhoskins/connect-less/issues",
-  "main": "lib/connect-less.js",
+  "homepage": "http://github.com/jimrhoskins/connect-lesscss",
+  "bugs": "https://github.com/jimrhoskins/connect-lesscss/issues",
+  "main": "lib/connect-lesscss.js",
   "engines": {
     "node": "*"
   },
   "licenses": [{
     "type": "MIT",
-    "url": "https://github.com/jimrhoskins/connect-less/blob/master/LICENSE"
+    "url": "https://github.com/jimrhoskins/connect-lesscss/blob/master/LICENSE"
   }],
   "dependencies": {
     "less": "~1.2.0" 
