@@ -21,5 +21,10 @@
   "dependencies": {
     "less": "~1.2.0" 
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "mocha": "*",
+    "coffee-script": "*",
+    "connect": "*",
+    "should": "*"
+  }
 }
