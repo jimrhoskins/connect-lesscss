@@ -1,0 +1,17 @@
+{
+  "author": "Jim Hoskins <jim@jimhoskins.com> (http://jimhoskins.com)",
+  "name": "connect-less",
+  "description": "Connect middleware for Less CSS",
+  "version": "0.1.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "lib/connect-less.js",
+  "engines": {
+    "node": "~0.6.1"
+  },
+  "dependencies": {
+    "less": "~1.2.0" 
+  },
+  "devDependencies": {}
+}
