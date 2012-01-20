@@ -15,7 +15,7 @@
   ],
   "homepage": "http://github.com/jimrhoskins/connect-lesscss",
   "bugs": {
-    "name": "https://github.com/jimrhoskins/connect-lesscss/issues"
+    "url": "https://github.com/jimrhoskins/connect-lesscss/issues"
   },
   "main": "lib/connect-lesscss.js",
   "engines": {
