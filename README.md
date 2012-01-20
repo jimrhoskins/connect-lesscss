@@ -37,11 +37,14 @@ Install development dependencies
     npm --dev install
 
 Run Tests
+
     cake test
 
 To build js from coffee
+
     cake build
 
 To build and run tests
+
     cake build test
 
