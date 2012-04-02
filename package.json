@@ -2,7 +2,7 @@
   "author": "Jim Hoskins <jim@jimhoskins.com> (http://jimhoskins.com)",
   "name": "connect-lesscss",
   "description": "Connect middleware for LESS CSS",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/jimrhoskins/connect-lesscss.git"
