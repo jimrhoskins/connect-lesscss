@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/jimrhoskins/connect-lesscss.png)](http://travis-ci.org/jimrhoskins/connect-lesscss)
 # Introduction
 
 `connect-lesscss` is [Connect](http://www.senchalabs.org/connect/)
